@@ -1,5 +1,4 @@
-# I am Prerak Patel and I have designed this program by myself and I haven't share
-# my program with anyone. My professor's name is Tiffany, Anotopoloski
+
 
 myList = input("Please enter the unsorted list to sort it : ")
 
